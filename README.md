@@ -44,4 +44,4 @@ O projeto utiliza princípios de **metodologia ágil**, organizando o desenvolvi
 
 ## 👨‍💻 Desenvolvedor
 
-Projeto desenvolvido por **Carlos** para fins acadêmicos.
+Projeto desenvolvido por **Luiz Pedro** para fins acadêmicos.
